@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I learn things *faster* than others. I have _programming skills_ on **HTML** and __C++__.
