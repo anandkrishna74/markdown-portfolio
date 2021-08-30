@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Cryo 🧊
+* Pyro 🔥
+  * Pyro bow
+  * Pyro catalyst
